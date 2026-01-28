@@ -1,2 +1,5 @@
 # neuraforge
-IA TOOL
+
+## Lancer
+```bash
+python -m src.app
